@@ -1,7 +1,7 @@
 # FLO Customer Segmentation with Unsupervised Learning
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/61653147/235902153-e73bcb93-9df6-40e7-a016-873b76488c8b.jpg">
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/61653147/235902153-e73bcb93-9df6-40e7-a016-873b76488c8b.jpg">
 </p>
 
 ## Business Problem
